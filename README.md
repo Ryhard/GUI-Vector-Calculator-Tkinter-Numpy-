@@ -7,7 +7,7 @@ Estes es un proyecto creado para la materia de fisica en el cual se pueden reali
 
 
 
-Cada uno de los botenes de operaciones. desplegara una ventana con el resultado de dicha operacion.
+Cada uno de los botnes de operaciones, desplegara una ventana con el resultado de dicha operacion.
 
 
 ![image](https://github.com/user-attachments/assets/bb142321-f480-4c1e-ab8b-2a667d90b895)
