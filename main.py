@@ -1,4 +1,5 @@
-# Codigo para realizar las operaciones basicas con los vectores
+#(Esto no es parte necesaria del codigo)
+# Codigo para conocer la logica que se usara en el proyecto
 # Debe realizar 1) SUMA 2) RESTA 3) DIVISIONPORUNESCALAR 4) MULTIPLICACION 5) PRODUCTO PUNTO 6) PROYECCION 7) Producto Cruz
 
 #Lista de los vectores
@@ -94,7 +95,7 @@ def proyeccionVECTORES():
     productoPuntoVECTORES()
     productoPunto  = resultado[0]
     magnitud = []
-    for i in range(len(listaV2)):
+    for i in range(len(listaV2)): #Itera n cantidad de veces para poder realizar las operaciones con cada coordenada del vector
         magnitud.append(listaV2[i] * listaV2[i])
     resultadoMagnitud = sum(magnitud)
     division = productoPunto / resultadoMagnitud
